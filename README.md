@@ -20,5 +20,4 @@ Developed an interactive Financial Analysis Dashboard using Excel to analyze rev
 - Dashboard Visualizations
 - Financial Analysis Reports
 ## 📸 Project Screenshot
-
-![Dashboard Screenshot](pictures/screenshots/Dashboard.png)
+![Financial Dashboard](dashboard.png)
